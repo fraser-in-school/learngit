@@ -6,3 +6,4 @@ hello
 world
 
 creating a new branch is quick & simple.
+branch dev and master.
